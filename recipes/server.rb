@@ -10,7 +10,7 @@ content "<!DOCTYPE html>
 <html>
 <head><title>Prueba server apache</title></head>
 <body>
-<h1>Hello motherfucker</h1>
+<h1>Hello, world</h1>
 </body>
 </html>"
 end
