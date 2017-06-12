@@ -11,6 +11,8 @@ content "<!DOCTYPE html>
 <head><title>Prueba server apache</title></head>
 <body>
 <h1>Hello, world</h1>
+<h2>#{node['ipaddress']}</h2>
+<h2>#{node['hostname']}</h2>
 </body>
 </html>"
 end
