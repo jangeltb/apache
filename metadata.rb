@@ -4,5 +4,5 @@ maintainer_email 'angel@mail.com'
 license 'all_rights'
 description 'Instala y arranca un servidor Apache'
 long_description 'Instala y arranca un servidor Apache'
-version '0.2.0'
+version '0.2.1'
 

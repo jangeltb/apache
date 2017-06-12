@@ -9,7 +9,8 @@ verifier:
   name: inspec
 
 platforms:
-  - name: centos-6.7
+#  - name: ubuntu-14.04
+  - name: centos-6.9
 
 suites:
   - name: default
